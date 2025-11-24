@@ -4,7 +4,7 @@ import base64
 from cryptography.fernet import Fernet
 
 def main():
-    print("=== Ferramenta de Cibersegurança ===")
+    print("=== CyberSecurity ToolKit ===")
     print("1. Verificar força de senha")
     print("2. Gerar hash de arquivo")
     print("3. Checar se senha está comprometida")
