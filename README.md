@@ -10,5 +10,5 @@ Ele oferece funcionalidades essenciais para análise e proteção de dados, incl
 - **Criptografia e descriptografia de mensagens (AES/Fernet)**: permite proteger informações sensíveis e recuperá-las com segurança. 
 
 O projeto inclui testes automatizados com **pytest** para validar as principais funções e um arquivo `requirements.txt` listando as dependências necessárias. 
-Ele foi desenvolvido como projeto final do curso, aplicando conceitos fundamentais de segurança da informação e boas práticas de programação em Python.
+Ele foi desenvolvido como projeto final do curso CS50’s Introduction to Programming with Python, aplicando conceitos fundamentais de segurança da informação e boas práticas de programação em Python.
 
